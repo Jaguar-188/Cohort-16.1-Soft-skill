@@ -32,7 +32,7 @@
         +  Most of the browsers uses JavaScript as their **primary language**.
 
             [https://skillcrush.com/blog/javascript/](https://skillcrush.com/blog/javascript/)
-        +  JavaScript has it's own library called **JQUERY** which contains the different functions that makes it more interactive.
+        +  JavaScript has its own library called **JQUERY** which contains the different functions that make it more interactive.
 
     1. #### DOM / CSSOM :
         +  DOM is a **Document Object Model** / **CSS Object Model** is a kind of parser that is used to parse the HTML and XML documents.
@@ -46,20 +46,20 @@
 
     ### The explanation is as follows :
 
-    +  A browser is one that renders the web page from the **remote server** as per the request of the end-user. 
-    +  We generally write the code by using the syntax that can be understandable by us but the computer knows the **binary     language** or you can say it accepts the data in terms of **bytes**. 
-    +  The intermediate software converts the human understandable data into **machine understandable data**. So, that machine can process the request. 
-    +  The bytes of data is first converted into **characters** and then they are converted into **tokens**. 
+    +  A browser renders the web page from the **remote server** as per the request of the end-user. 
+    +  We generally write the code by using the syntax that can be understandable by us but the computer knows the **binary language** or you can say it accepts the data in terms of **bytes**. 
+    +  The intermediate software converts the human-understandable data into **machine-understandable data**. So, that machine can process the request. 
+    +  The bytes of data are first converted into **characters** and then they are converted into **tokens**. 
     +  The first part is the **browser engine** which acts as **middleware** between the **end-user** and the **rendering engine**. 
-    +  It takes request from user to further part which is rendering engine whose primary task is to **display** or **execute** the HTML pages. 
+    +  It takes a request from a user to a further part which is the rendering engine whose primary task is to **display** or **execute** the HTML pages. 
     +  This **rendering engine is different for different browsers** like **Firefox uses Gecko** or **Chrome uses Webkit**  or **opera uses Blink** etc. 
     +  The next part **networking** is used to connect to the internet through the **protocol HTTPS**. 
     +  The next part is **JavaScript interpreter** which is used to render the **javascript coding**. 
-    +  Most of the browsers uses **javascript as their primary language**. 
-    +  The **web address** e.g [https://example.com](https://example.com) recieved from user is first converted into **ip address** e.g 
+    +  Most of the browsers use **javascript as their primary language**. 
+    +  The **web address** e.g [https://example.com](https://example.com) received from user is first converted into **IP address** e.g 
     **192.168.1.1** by using **DNS server** and then it travels over the internet to search for where it belongs. 
-    +  After searching, the **server will serve the respective web page for the ip address**. 
-    +  The rendering engine will recieve it and then **creates a DOM tree**. 
+    +  After searching, the **server will serve the respective web page for the IP address**. 
+    +  The rendering engine will receive it and then **creates a DOM tree**. 
     +  After that it creates a rendering tree by using **CSS files** and DOM tree. 
     +  Rendering tree will then displays the web page as per the **positions**, **layout** written in the file. 
     +  Then user will get the web page that he is accessing.
