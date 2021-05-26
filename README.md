@@ -13,7 +13,8 @@
         +  HTML is a **HyperText Markup Language** which is consists of **markup symbols**.
         +  The markup symbols tell the browser that how it should render the page.
         +  It is a **front-end technology**.
-        [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
+
+            [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
         + Currently HTML has version of 5 i.e **HTML5**.
     
     1. #### CSS :
@@ -21,21 +22,23 @@
         +  They are used to give styles to the HTML page as like **font**, **color**. 
         +  The main purpose is to design the pages according to the **customer's requirements**.
         +  It is responsible for the **look** and **feel** of the web page.
-        [https://www.tutorialspoint.com/css/what_is_css.htm](https://www.tutorialspoint.com/css/what_is_css.htm)
+
+            [https://www.tutorialspoint.com/css/what_is_css.htm](https://www.tutorialspoint.com/css/what_is_css.htm)
         +  Currently CSS has version of 3 i.e **CSS3**
 
     1. #### JS :
         +  JS is a kind of **scripting language** that can be used on both **client-side** as well as **server-side**.
         +  JavaScript makes the web page more **interactive**.
         +  Most of the browsers uses JavaScript as their **primary language**.
-        [https://skillcrush.com/blog/javascript/](https://skillcrush.com/blog/javascript/)
+
+            [https://skillcrush.com/blog/javascript/](https://skillcrush.com/blog/javascript/)
         +  JavaScript has it's own library called **JQUERY** which contains the different functions that makes it more interactive.
 
     1. #### DOM / CSSOM :
         +  DOM is a **Document Object Model** / **CSS Object Model** is a kind of parser that is used to parse the HTML and XML documents.
         +  The CSS Object Model creation it’s generated like the DOM but with some differences.
 
-        ![N|Solid](https://miro.medium.com/max/376/1*jL3O3J4KmXBMh1zULLwGgA.png)
+            ![N|Solid](https://miro.medium.com/max/376/1*jL3O3J4KmXBMh1zULLwGgA.png)
 <br>
   
 
